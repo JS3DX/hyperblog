@@ -1,4 +1,4 @@
-Hola mi nombre es Jose. Voy a cumplir 32 años.
+Hola mi nombre es Juan. Voy a cumplir 32 años.
 Esta sería la segunda línea de código
 
 Luego de dejar un espacio en blanco, esta sería otra línea.

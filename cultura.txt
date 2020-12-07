@@ -1,12 +1,6 @@
-Hola mi nombre es Juan. Voy a cumplir 21 años.
+Hola mi nombre es Jose. Tengo 31 años.
 Esta sería la segunda línea de código
 
-Luego de dejar un espacio en blanco, esta sería otra línea.
-Sin nada más que agregar, me despido.
-
-Espera! Decidi agregar esta línea para ver si se notan los cambios.
-
-Agregué otro comentario antes de trackearlo! What!
-Este sería un cambio sin hacer commit. Who!
+Decidi cambiar la historia y hacer otra totalmente distinta. Antes esto no existía y se hablaba de Juan
 
 Saludos!
